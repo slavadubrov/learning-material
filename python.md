@@ -1,4 +1,4 @@
 # Python
 
-* [Онлайн Школы]:
+* Онлайн Школы:
   * [Interactive code school](https://www.codecademy.com/)
