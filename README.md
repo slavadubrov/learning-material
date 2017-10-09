@@ -5,20 +5,21 @@
 #### Оглавление
 
 * [Языки]:
-	* [Java](/java.md)
-	* [Python](/python.md)
+  * [Java](/java.md)
+  * [Python](/python.md)
 
 * [Машинное обучение и Статистика]:
-	* [Общее машинное обучение](/machine-learning.md)
-	* [Reinforcement learning](/reinforcement-learning.md)
-	* [Deep learning](/deep-learning.md)
-	* [ML tools](/ml-tools.md)
-	* [Статистика](/statistics.md)
+  * [Общее машинное обучение](/machine-learning.md)
+  * [Статистика](/statistics.md)
+  * [Reinforcement learning](/reinforcement-learning.md)
+  * [Deep learning](/deep-learning.md)
+  * [Обработка естественного языка](/nlp.md)
+  * [Рекомендательные системы](/recommender-systems)
+  * [ML tools](/ml-tools.md)
 
 * [Сервисы и ресурсы]:
-	* [Тренировки ML](http://mltrainings.ru/?filter=activ)
-	* [Подборка ресурсов по машинному обучению](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie)
-	* [Yandex School of Data Analysis](https://github.com/yandexdataschool)
+  * [Тренировки ML](http://mltrainings.ru/?filter=activ)
+  * [Подборка ресурсов по машинному обучению](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie)
+  * [Yandex School of Data Analysis](https://github.com/yandexdataschool)
 
 * [Другие]:
-	
