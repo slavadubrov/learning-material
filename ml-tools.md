@@ -7,7 +7,7 @@
 	* [ELI5: Debugging machine learning classifiers and explain their predictions](http://eli5.readthedocs.io/en/latest/overview.html)
 	* [Statmodels](http://www.statsmodels.org/stable/index.html)
 	* [Scrapy: extracting the data from websites](https://scrapy.org/)
-	* [Other cool lists]:
+	* [Другие подборки]:
 		* [Python tools for time series](https://github.com/MaxBenChrist/awesome_time_series_in_python)
 
 * [BigDL: Distributed Deep Learning on Apache Spark](https://github.com/intel-analytics/BigDL)
