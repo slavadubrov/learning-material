@@ -9,6 +9,8 @@
   * [Scrapy: extracting the data from websites](https://scrapy.org/)
   * Другие подборки:
     * [Python tools for time series](https://github.com/MaxBenChrist/awesome_time_series_in_python)
+    * [10 Useful Python Data Visualization Librarie](https://blog.modeanalytics.com/python-data-visualization-libraries/)
+    * [awesome-python](https://github.com/vinta/awesome-python)
 
   ------------
 

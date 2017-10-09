@@ -15,11 +15,13 @@
   * [Deep learning](/deep-learning.md)
   * [Обработка естественного языка](/nlp.md)
   * [Рекомендательные системы](/recommender-systems)
+  * [Big data](/big-data.md)
   * [ML tools](/ml-tools.md)
 
 * Сервисы и ресурсы:
   * [Тренировки ML](http://mltrainings.ru/?filter=activ)
   * [Подборка ресурсов по машинному обучению](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie)
   * [Yandex School of Data Analysis](https://github.com/yandexdataschool)
+  * [Доска по data science в Trello](https://trello.com/b/rbpEfMld/data-science)
 
 * Другое:
