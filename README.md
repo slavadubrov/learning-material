@@ -4,19 +4,21 @@
 
 #### Оглавление
 
-* Языки:
+* [Языки]:
 	* [Java](/java.md)
+	* [Python](/python.md)
 
-* Машинное обучение:
+* [Машинное обучение и Статистика]:
 	* [Общее машинное обучение](/machine-learning.md)
 	* [Reinforcement learning](/reinforcement-learning.md)
 	* [Deep learning](/deep-learning.md)
 	* [ML tools](/ml-tools.md)
+	* [Статистика](/statistics.md)
 
-* Сервисы и ресурсы:
+* [Сервисы и ресурсы]:
 	* [Тренировки ML](http://mltrainings.ru/?filter=activ)
 	* [Подборка ресурсов по машинному обучению](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie)
 	* [Yandex School of Data Analysis](https://github.com/yandexdataschool)
 
-* Другие:
+* [Другие]:
 	
