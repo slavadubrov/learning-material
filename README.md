@@ -14,7 +14,7 @@
   * [Reinforcement learning](/reinforcement-learning.md)
   * [Deep learning](/deep-learning.md)
   * [Обработка естественного языка](/nlp.md)
-  * [Рекомендательные системы](/recommender-systems)
+  * [Рекомендательные системы](/recommender-systems.md)
   * [Big data](/big-data.md)
   * [ML tools](/ml-tools.md)
 
