@@ -6,4 +6,7 @@
 * Books
   * [Immersive linear algebra](http://immersivemath.com/ila/)
   * [Chapter 2 Linear Algebra from Deep Learning Book](http://www.deeplearningbook.org/contents/linear_algebra.html)
+* Articles
+  * [List of Linear Algebra Courses](http://www.itshared.org/2015/02/best-time-to-learn-linear-algebra-is-now.html)
+
 

@@ -10,6 +10,8 @@
 * Articles:
   * [Коллекции в Java](https://habrahabr.ru/company/luxoft/blog/256877/)
 * Other Links:
+  * [Design Patterns in Java Tutorial](https://www.tutorialspoint.com/design_pattern/index.htm)
   * [Русскоязычные обучающие видео](https://habrahabr.ru/company/luxoft/blog/272025/)
   * [Список полезных ссылок](https://habrahabr.ru/company/luxoft/blog/280784/)
+
 

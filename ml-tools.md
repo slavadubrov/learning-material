@@ -7,10 +7,11 @@
   * [ELI5: Debugging machine learning classifiers and explain their predictions](http://eli5.readthedocs.io/en/latest/overview.html)
   * [Statmodels](http://www.statsmodels.org/stable/index.html)
   * [Scrapy: extracting the data from websites](https://scrapy.org/)
+  * [An experiment manager for deep learning](https://github.com/henripal/labnotebook)
   * Другие подборки:
-    * [Python tools for time series](https://github.com/MaxBenChrist/awesome_time_series_in_python)
-    * [10 Useful Python Data Visualization Librarie](https://blog.modeanalytics.com/python-data-visualization-libraries/)
-    * [awesome-python](https://github.com/vinta/awesome-python)
+		* [Python tools for time series](https://github.com/MaxBenChrist/awesome_time_series_in_python)
+		* [10 Useful Python Data Visualization Librarie](https://blog.modeanalytics.com/python-data-visualization-libraries/)
+		* [awesome-python](https://github.com/vinta/awesome-python)
 
   ------------
 
