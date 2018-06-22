@@ -1,26 +1,24 @@
-# Обучающие материалы
+# Learning material
 
-Постоянно обновляемая подборка ресурсов по машинному обучению и программированию.
+A constantly updated collection of resources for machine learning and programming.
 
-#### Оглавление
-
-* Языки:
+* Coding:
   * [Java](/java.md)
   * [Python](/python.md)
 
-* Машинное обучение и Статистика:
-  * [Общее машинное обучение](/machine-learning.md)
-  * [Статистика](/statistics.md)
+* Machine Learning and Statistics:
+  * [Machine learning](/machine-learning.md)
+  * [Statistics](/statistics.md)
   * [Reinforcement learning](/reinforcement-learning.md)
   * [Deep learning](/deep-learning.md)
-  * [Обработка естественного языка](/nlp.md)
-  * [Рекомендательные системы](/recommender-systems.md)
+  * [NLP](/nlp.md)
+  * [Recommender systems](/recommender-systems.md)
   * [Big data](/big-data.md)
   * [ML tools](/ml-tools.md)
 
-* Другие ресурсы и подборки:
-  * [Тренировки ML](http://mltrainings.ru/?filter=activ)
-  * [Подборка ресурсов по машинному обучению](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie)
+* Other resouces:
+  * [ML trainings](http://mltrainings.ru/)
+  * [Selection of resources for machine learning](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie)
   * [Yandex School of Data Analysis](https://github.com/yandexdataschool)
-  * [Доска по data science в Trello](https://trello.com/b/rbpEfMld/data-science)
+  * [Data Science Trello board](https://trello.com/b/rbpEfMld/data-science)
 
