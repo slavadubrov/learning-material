@@ -15,7 +15,9 @@ A constantly updated collection of resources for machine learning and programmin
   * [NLP](/nlp.md)
   * [Recommender systems](/recommender-systems.md)
   * [Big data](/big-data.md)
-  * [ML tools](/ml-tools.md)
+  * [Python tools](/python-tools.md)
+
+* [Useful tools](/useful-tools.md)
 
 * Other resouces:
   * [ML trainings](http://mltrainings.ru/)
