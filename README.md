@@ -5,6 +5,7 @@ A constantly updated collection of resources for machine learning and programmin
 * Coding:
   * [Java](/java.md)
   * [Python](/python.md)
+  * [Scala](/scala.md)
 
 * Machine Learning and Statistics:
   * [Machine learning](/machine-learning.md)

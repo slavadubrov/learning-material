@@ -9,6 +9,7 @@
   * [Machine Learning Engineer Nanodegree (co-created by Kaggle)](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)
   * [Data Analyst Nanodegree (co-created by Facebook & MongoDB)](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
   * [Microsoft Professional Program for Artificial Intelligence track](https://academy.microsoft.com/en-us/tracks/artificial-intelligence/)
+  * [FOUNDATIONS OF MACHINE LEARNING](https://bloomberg.github.io/foml/)
 
 * Interactive jupyter notebooks:
   * [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://github.com/ageron/handson-ml)
