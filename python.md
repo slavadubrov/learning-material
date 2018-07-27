@@ -1,10 +1,11 @@
 # Python
 
 * Courses:
-  * [Interactive code school](https://www.codecademy.com/)
+  * [:uk: Intro to Python for Data Science](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-1-python-basics)
+  
 * Selections:
-  * [Awesome Python Books](https://github.com/Junnplus/awesome-python-books)
+  * [:uk: Awesome Python Books](https://github.com/Junnplus/awesome-python-books)
 
 * Links:
-  * [Modern Pandas](https://tomaugspurger.github.io/modern-1-intro)
+  * [:uk: Modern Pandas](https://tomaugspurger.github.io/modern-1-intro)
 
