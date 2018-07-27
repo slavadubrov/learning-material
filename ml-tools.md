@@ -20,6 +20,7 @@
 
 	* NLP:
 	 	* [spaCy](https://spacy.io/)
+	 	* [NLTK](https://www.nltk.org/)
   
 	* Other Selections:
 		* [Python tools for time series](https://github.com/MaxBenChrist/awesome_time_series_in_python)
