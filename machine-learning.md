@@ -24,6 +24,7 @@
   * [Preparing data for a machine learning models](https://www.jeremyjordan.me/preparing-data-for-a-machine-learning-model/)
 
 * Other Links
+  * [ML FAQ](https://sebastianraschka.com/faq/)
   * [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
   * [Machine learning glossary](https://developers.google.com/machine-learning/glossary/)
   * [Empirical Risk Minimization: Loss Functions](http://www.cs.cornell.edu/courses/cs4780/2017sp/lectures/lecturenote10.html)

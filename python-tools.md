@@ -17,6 +17,7 @@
 
 * NLP:
  	* [spaCy](https://spacy.io/)
+ 	* [textacy](http://textacy.readthedocs.io/en/stable/)
  	* [NLTK](https://www.nltk.org/)
 
 * Other:
