@@ -8,9 +8,11 @@
 * Probabilistic models:
 	* [Edward](http://edwardlib.org/tutorials/)
 	* [Pomegranate](http://pomegranate.readthedocs.io/en/latest/)
+
 * AutoML:
 	* [TPOT](https://github.com/rhiever/tpot)
 	* [Auto-sklearn](http://automl.github.io/auto-sklearn/)
+
 * Explaining the predictions of the ML models
 	* [Lime](https://github.com/marcotcr/lime)
 	* [ELI5](http://eli5.readthedocs.io/en/latest/overview.html)
@@ -18,6 +20,7 @@
 * NLP:
  	* [spaCy](https://spacy.io/)
  	* [textacy](http://textacy.readthedocs.io/en/stable/)
+ 	* [neuralcoref](https://github.com/huggingface/neuralcoref/blob/master/readme.rst)
  	* [NLTK](https://www.nltk.org/)
 
 * Other:
